@@ -1,0 +1,1 @@
+cpwd.exe > password.txt
